@@ -1,0 +1,42 @@
+#page {
+    margin: 0 auto 0 auto;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+}
+#header {
+    padding-top: 80px;
+    padding-left: 637px;
+    height: 33px;
+    width: 500px;
+    font-family: OpenSans-Bold;
+    font-size: 12px;
+    color: #FFFFFF;
+    letter-spacing: 7.69px;
+}
+#Form_TaskName {
+    background-color:#6CADFF;
+    border: none;
+    font-family: OpenSans;
+    font-size: 24px;
+    color: white;
+    height: 33px;
+    width: 700px;
+    padding-top: 0px;
+    padding-left: 330px;
+    vertical-align: middle;
+}
+#AddTaskButton {
+    background-color:#FFFF00;
+    padding-top: 0px;
+    padding-left: 0px;
+    border: none;
+    font-size: medium;
+    font-family: fontello, sans-serif;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    vertical-align: middle;
+}
